@@ -1,0 +1,24 @@
+/* UserForm.css */
+.user-form {
+    display: flex;
+  }
+  
+  .user-form label,
+  .user-form input,
+  .user-form button {
+    margin-right: 10px;
+  }
+  
+  .user-form label,
+  .user-form button {
+    width: fit-content;
+  }
+  
+  .user-form input {
+    flex-grow: 1;
+  }
+  
+  .user-form button:last-child {
+    margin-right: 0;
+  }
+  

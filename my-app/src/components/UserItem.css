@@ -1,0 +1,9 @@
+/* UserItem.css */
+.user-item button {
+    margin-right: 10px;
+  }
+  
+  .user-item button:last-child {
+    margin-right: 0;
+  }
+  
